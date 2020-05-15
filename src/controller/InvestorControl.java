@@ -46,7 +46,7 @@ public class InvestorControl {
     }
     
     public void printInvestor(ArrayList<Investor> invertors){
-        System.out.println("# id \t Budget");
+        System.out.println("# investors");
 
         System.out.println("# id \t Budget \t Total Sahre");
         for (Investor investor : invertors) {
