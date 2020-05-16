@@ -5,6 +5,7 @@
  */
 package models;
 
+import Interfaces.CompanyInterface;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Random;
