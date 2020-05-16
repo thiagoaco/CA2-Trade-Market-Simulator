@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 package tradeMarket;
-import controller.CompanyControl;
-import controller.InvestorControl;
-import controller.TransactionControl;
+import command.CompanyControl;
+import command.InvestorControl;
+import command.TransactionControl;
 import factory.ElementsFactory;
 import static java.time.Clock.system;
 import models.Company;
-import models.CompanyInterface;
+import Interfaces.CompanyInterface;
 import models.Investor;
 import java.util.ArrayList;
 import java.util.Collections;
