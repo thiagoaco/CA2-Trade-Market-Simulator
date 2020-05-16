@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 package factory;
-import controller.CompanyControl;
-import controller.InvestorControl;
+import command.CompanyControl;
+import command.InvestorControl;
 import java.util.ArrayList;
 import models.Company;
 import models.Investor;
